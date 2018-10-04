@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>	<display-template>/templates/web/article.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b7ab</objectGroupId>
+	<objectId>b7abb0cb-3318-e864-66f5-d4069801b1b6</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>a-new-page</folder-name>
+	<internal-name>a new page</internal-name>
+	<navLabel/>
+	<authorName>a new page</authorName>
+	<authorPosition>a new page</authorPosition>
+	<title>a new page</title>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>6000</orderDefault_f>
+	<disabled>false</disabled>
+	<keywords>Article</keywords>
+	<authorImage>/static-assets/images/authors/deai.png</authorImage>
+	<bodyContent>&lt;p&gt;a new page&lt;/p&gt;</bodyContent>
+	<createdDate>2018-10-04T14:38:03.198Z</createdDate>
+	<createdDate_dt>2018-10-04T14:38:03.198Z</createdDate_dt>
+	<lastModifiedDate>2018-10-04T14:38:03.198Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-10-04T14:38:03.198Z</lastModifiedDate_dt>
+	<expireDate_dt>2018-10-04T14:38:03.000Z</expireDate_dt>
+</page>
