@@ -102,7 +102,7 @@
 					</constraints>
 				</field>
 				<field>
-					<type>image-picker-rendition</type>
+					<type>image-picker</type>
 					<id>bckgroundImage</id>
 					<iceId>background</iceId>
 					<title>Background Image</title>
@@ -132,13 +132,8 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value>desktopImages</value>
+							<value>approvedImages</value>
 							<type>datasource:image</type>
-						</property>
-						<property>
-							<name>renditions</name>
-							<value>quarter, thumb</value>
-							<type>string</type>
 						</property>
 						<property>
 							<name>readonly</name>
@@ -149,7 +144,7 @@
 					<constraints>
 						<constraint>
 							<name>required</name>
-							<value><![CDATA[true]]></value>
+							<value><![CDATA[]]></value>
 							<type>boolean</type>
 						</constraint>
 					</constraints>
