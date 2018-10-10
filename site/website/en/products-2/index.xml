@@ -9,7 +9,7 @@
 	<placeInNav>true</placeInNav>
 	<orderDefault_f>5000</orderDefault_f>
 	<internal-name>Products</internal-name>
-	<authorName>James 123</authorName>
+	<authorName>James </authorName>
 	<authorPosition/>
 	<title>Products</title>
 	<authorImage>/static-assets/images/authors/user-03.jpg</authorImage>
@@ -21,8 +21,8 @@
 	<disabled>false</disabled>
 	<createdDate>2018-01-25T22:39:01.635Z</createdDate>
 	<createdDate_dt>2018-01-25T22:39:01.635Z</createdDate_dt>
-	<lastModifiedDate>2018-10-10T15:42:04.161Z</lastModifiedDate>
-	<lastModifiedDate_dt>2018-10-10T15:42:04.161Z</lastModifiedDate_dt>
+	<lastModifiedDate>2018-10-10T15:46:32.165Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-10-10T15:46:32.165Z</lastModifiedDate_dt>
 	<expireDate_dt>2018-01-25T22:39:01.000Z</expireDate_dt>
 	<keywords>Article</keywords>
 </page>
